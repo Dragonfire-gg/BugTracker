@@ -24,6 +24,7 @@ Navigate to "https://github.com/Dragonfire-gg/BugTracker/issues" -> click the gr
 
 Additional Information
 -------------------------
+| Dragonfire        |                                                           |
 |-------------------|:----------------------------------------------------------|
 | Website:          | https://dragonfire.gg/                                    |
 | Discord:          | https://discord.gg/dragonfire                             |
